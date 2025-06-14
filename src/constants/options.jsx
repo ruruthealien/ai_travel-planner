@@ -18,14 +18,14 @@ export const SelectTravelsList=[
         title: 'Family',
         desc: 'A family seeking fun and bonding experiences.',
         icon: '🏡',
-        people: '3 to 5 People'
+        people: '3 to 7 People'
     },
     {
         id: 4,
         title: 'Friends',
         desc: 'A group of friends ready for an unforgettable adventure.',
         icon: '🎉',
-        people: '5 to 10 People'
+        people: '5 to 20 People'
     }
 ]
 
